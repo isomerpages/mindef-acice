@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: ADMM Cybersecurity and Information Centre of Excellence
+      title: The ACICE
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/ACICE Logo.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
