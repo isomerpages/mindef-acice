@@ -22,6 +22,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
