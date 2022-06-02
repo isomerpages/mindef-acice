@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: The ACICE
+      title: ACICE
       subtitle: Hero subtitle
-      background: /images/ACICE Logo.png
+      background: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -33,5 +33,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
