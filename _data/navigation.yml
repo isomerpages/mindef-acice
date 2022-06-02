@@ -14,8 +14,8 @@ links:
       - title: Our Activities
         url: /activities
   - title: Publications
-    collection: collection
+    url: /publications
   - title: Press & News
-    resource_room: true
+    url: /news
   - title: MISP
     url: /misp/
