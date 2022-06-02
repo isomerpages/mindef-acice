@@ -8,9 +8,9 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: ACICE
-      subtitle: Hero subtitle
+      subtitle: ADMM Cybersecurity and Information Centre of Excellence
       background: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
-      button: Contact Us
+      button: Find out more
       url: /contact-us/
       key_highlights:
         - title: Highlight A
