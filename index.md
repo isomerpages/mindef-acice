@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ACICE
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
-      background: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
+      background: /images/cybersecurity.jpg
       button: Find out more
       url: /contact-us/
       key_highlights:
