@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: ADMM Cybersecurity and Information Centre of Excellence
-description: Brief site description here
+title: ACICE
+description: ADMM Cybersecurity and Information Centre of Excellence
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -33,4 +33,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
