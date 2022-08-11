@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#9013fe"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#402189"
 resources_name: resource
 description: ADMM Cybersecurity and Information Centre of Excellence
 permalink: none
