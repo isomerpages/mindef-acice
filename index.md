@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: https://www.mindef.gov.sg/web/portal/mindef/home
         - title: Page A
           description: Page A is important too
           url: /privacy/
@@ -40,4 +40,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
