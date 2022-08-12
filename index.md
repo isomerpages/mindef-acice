@@ -25,18 +25,18 @@ sections:
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: Can have 1 or more or non of these panels!!
       button: Button Text
       image: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
       alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: ACan have 1 or more or non of these panels!!
       button: Button text
       url: /faq/
   - resources:
-      title: Media
+      title: Title
       subtitle: Learn more
       button: View More
 ---
