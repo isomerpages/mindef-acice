@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
+          description: Sub text - can link  out
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: ACan have 1 or more or non of these panels!!
+      description: Can have 1 or more or non of these panels!!
       button: Button text
       url: /faq/
   - resources:
