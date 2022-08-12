@@ -37,6 +37,6 @@ sections:
       url: /faq/
   - resources:
       title: Title
-      subtitle: Learn more
+      subtitle: Sub Title
       button: View More
 ---
