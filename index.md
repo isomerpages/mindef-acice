@@ -23,23 +23,24 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: ADMM
+      subtitle: 'This is an "infopic" section '
+      description: Infopic description
+      button: Read more
+      alt: Image alt text
+      image: /images/ASEAN.png
+      url: https://www.google.com/
+  - infopic:
+      title: CyberSecurity
+      subtitle: 'This is an "infopic" section '
       description: Can have 1 or more or non of these panels!!
       button: Read more
       image: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
       alt: Image alt text
       url: https://www.google.com/
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-      image: /images/ASEAN.png
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: 'This is an "infobar" section '
       description: Can have 1 or more or non of these panels!!
       button: Button text
       url: /faq/
