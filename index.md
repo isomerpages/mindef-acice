@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ACICE
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
-      background: /images/Blue cyber with flags.jpg
+      background: /images/Blue_cyber_flags2.jpg
       button: Find out more
       url: /contact-us/
       key_highlights:
