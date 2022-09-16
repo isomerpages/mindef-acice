@@ -36,6 +36,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/ASEAN.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
