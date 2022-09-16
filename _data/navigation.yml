@@ -1,7 +1,7 @@
 logo: /images/ACICE Logo.png
 links:
   - title: About Us
-    url: /aboutus
+    url: /aboutacice
     sublinks:
       - title: ACICE
         url: /aboutacice
