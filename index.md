@@ -26,9 +26,10 @@ sections:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Can have 1 or more or non of these panels!!
-      button: Button Text
+      button: Read more
       image: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
       alt: Image alt text
+      url: https://www.google.com/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -39,4 +40,11 @@ sections:
       title: Title
       subtitle: Sub Title
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/ASEAN Logo.jpg
+      alt: Image alt text
 ---
