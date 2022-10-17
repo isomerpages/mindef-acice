@@ -52,7 +52,7 @@ We maintain this Digital Service for the information and education of its users.
 
 7. Privacy Policy
 
-Please click here to view this Digital Service’s Privacy Statement.
+Please click [here](/privacy) to view this Digital Service’s Privacy Statement.
 
 8. Disclaimer and Limitation of Liability
 
