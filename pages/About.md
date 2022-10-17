@@ -3,10 +3,6 @@ title: About
 permalink: /aboutacice/
 description: ""
 ---
+The ADMM Cybersecurity and Information Centre of Excellence (ACICE) was conceptualised as a result of the unique threats posited by cybersecurity, disinformation and misinformation to defence establishments. Such threats could impact critical infrastructure or networks, or have the potential to fracture social cohesion within and across states, while giving hostile actors opportunities to influence public opinion and undermine trust in governments. 
 
-
-![](/images/Photo%201.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-![](/images/Photo%206.jpg)
+Hence, the ACICE was set up to focus on confidence-building measures, enhancing information-sharing, and capacity building among ASEAN defence establishments. The ACICE aims to enhance multilateral cooperation among ASEAN defence establishments against cyberattacks, disinformation and misinformation, for the region’s collective peace and security. 
