@@ -6,14 +6,10 @@ permalink: /privacy/
 
 2. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the digital service.
 
-3. If you provide us with personally identifiable data
-(a) Where appropriate, we may share necessary data with other Government agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way, unless such sharing is prohibited by law.
-(b) We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
+3. To safeguard your personal data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
 
-4. To safeguard your personal data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+4. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
 
-5. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
-
-6. Please contact us if you:
+5. Please contact us if you:
 (a) have any enquires or feedback on our data protection policies and procedures,
 (b) need more information on or access to data which you have provided to us in the past.
