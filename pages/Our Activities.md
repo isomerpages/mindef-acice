@@ -3,5 +3,9 @@ title: Our Activities
 permalink: /activities/
 description: ""
 ---
+Some of the Centre of Excellence’s activities include: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* The holding of exchanges and interactions to increase awareness and knowledge on potential threats to regional security arising from the cybersecurity and information landscape 
+* The publications of reports and journals
+* Promoting exchanges and interactions on domains of cybersecurity and information, through exercises, dialogues and consultation 
+* Supporting the ACDN such as by hosting and facilitating visits, including the network’s meetings and activities, and disseminating the Centre’s cybersecurity products through the ACDN network to enhance awareness and discussions
