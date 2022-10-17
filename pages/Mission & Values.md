@@ -3,5 +3,4 @@ title: Mission & Values
 permalink: /missionvalues/
 description: ""
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The ACICE is guided by established ASEAN principles of respect for sovereignty, equality, territorial integrity, and non-interference in the internal affairs of AMS as enshrined in the ASEAN Charter, and in accordance with ASEAN principles and processes.
