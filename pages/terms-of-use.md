@@ -2,21 +2,21 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-1. General
+**General**
 
 This Digital Service is owned by ACICE. Access to any area of this Digital Service is governed by the terms and conditions below ("Terms"). By accessing and using any area of this Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms. If you do not agree to any of these Terms, please do not use this Digital Service. In these Terms, the words "we", "our" and "us" refers to ACICE.
 
 We may revise these Terms at any time by updating this page. You should visit this page from time to time and review the current Terms because they are binding on you. We may modify or discontinue any information or features that form part of this Digital Service at any time, with or without notice to you, and without liability.
 
-2. Access to this Digital Service
+**Access to this Digital Service**
 
 The accessibility and operation of this Digital Service relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of this Digital Service.
 
-3. Relying on Information
+**Relying on Information**
 
 We provide this Digital Service as a general information source only and we are not involved in giving professional advice here. This Digital Service may not cover all information available on a particular issue. Before relying on this Digital Service, you should do your own checks or obtain professional advice on your particular circumstances.
 
-4. Security
+**Security**
 
 Where appropriate, we use available technology to protect the security of communications made through this Digital Service. However, we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through this Digital Service.
 
@@ -24,7 +24,7 @@ Internet communications may be susceptible to interference or interception by th
 
 You should take appropriate steps to keep your information, software and equipment secure. This includes clearing your Internet browser cookies and cache before and after using any services on this Digital Service.
 
-5. Hyperlinks
+**Hyperlinks**
 
 This Digital Service contains hyperlinks to digital services which are not maintained or controlled by us. We shall not be responsible for the contents of any hyperlinked digital service or any hyperlink contained in a hyperlinked digital service, and shall not be liable for any damages or loss arising from access to those digital services. Use of the hyperlinks and access to such hyperlinked digital services are entirely at your own risk.
 
@@ -42,7 +42,7 @@ d. We reserve all rights to disable any links to, or frames of any digital servi
 
 e. We reserve the right to disable any unauthorised links or frames to this Digital Service and disclaim any responsibility for the content available on any other digital service reached by links to or from this Digital Service or any of its contents.
 
-6. Intellectual Property
+**Intellectual Property**
 
 All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
 
@@ -50,10 +50,10 @@ Accordingly, downloading, reproduction or use of such material by any other pers
 
 We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.
 
-7. Privacy Policy
+**Privacy Policy**
 
 Please click [here](/privacy) to view this Digital Service’s Privacy Statement.
 
-8. Disclaimer and Limitation of Liability
+**Disclaimer and Limitation of Liability**
 
 We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.
