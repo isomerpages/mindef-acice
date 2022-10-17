@@ -3,5 +3,4 @@ title: Our Capabilities
 permalink: /capabilities/
 description: ""
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The ACICE will share reports on fake news, misinformation and disinformation that have security implications and are relevant to the defence sectoral, including distortions, rumours, untruths, misinformation or smears. The Centre will also function as a node for Confidence Building Measures and complement the ASEAN Cyber Defence Network to promote regional exchanges, interactions and cooperation on cybersecurity. 
