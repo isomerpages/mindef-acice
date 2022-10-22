@@ -11,7 +11,7 @@ sections:
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
       background: /images/ACICE-Web-Banner-v2-w-o-BG.png
       button: Find out more
-      url: /contact-us/
+      url: /aboutacice/
       key_highlights:
         - title: Highlight A
           description: Sub text - can link  out
