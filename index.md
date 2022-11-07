@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: CyberSecurity
       subtitle: 'This is an "infopic" section '
-      description: Can have 1 or more or non of these panels!!
+      description: Can have 1 or more or none of these panels!!
       button: Read more
       image: /images/GettyImages-914788014-cybersecurity-vs-data-privacy-1-min.jpg
       alt: Image alt text
