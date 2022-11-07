@@ -14,4 +14,4 @@ Some of the Centre of Excellence’s activities include:
 
 ![](/images/OK%20-%20Photo%202.jpg)
 
-![](/images/Photo%206.jpg)
+![](/images/Our_Activities_7nov.jpg)
