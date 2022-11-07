@@ -17,14 +17,6 @@ sections:
           description: Learn more about the ADMM
           url: https://admm.asean.org
   - infopic:
-      title: ADMM
-      subtitle: 'This is an "infopic" section '
-      description: Infopic description
-      button: Read more
-      alt: Image alt text
-      image: /images/ASEAN.png
-      url: https://www.google.com/
-  - infopic:
       title: CyberSecurity
       subtitle: 'This is an "infopic" section '
       description: Can have 1 or more or non of these panels!!
@@ -42,7 +34,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: 'This is an "infobar" section '
-      description: Can have 1 or more or non of these panels!!
+      description: Can have 1 or more or none of these panels!!
       button: Button text
       url: /faq/
   - resources:
