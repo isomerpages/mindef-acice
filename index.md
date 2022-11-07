@@ -13,8 +13,8 @@ sections:
       button: Find out more
       url: /aboutacice/
       key_highlights:
-        - title: Learn more about the ASEAN Defence Ministers’ Meeting
-          description: ADMM
+        - title: ASEAN Defence Ministers’ Meeting (ADMM)
+          description: Learn more about the ADMM
           url: https://admm.asean.org
   - infopic:
       title: ADMM
