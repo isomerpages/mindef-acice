@@ -13,15 +13,9 @@ sections:
       button: Find out more
       url: /aboutacice/
       key_highlights:
-        - title: Highlight A
-          description: Sub text - can link  out
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://www.mindef.gov.sg/web/portal/mindef/home
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Learn more about the ASEAN Defence Ministers’ Meeting
+          description: ADMM
+          url: https://admm.asean.org
   - infopic:
       title: ADMM
       subtitle: 'This is an "infopic" section '
