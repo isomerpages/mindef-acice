@@ -118,14 +118,14 @@ The Advisory Board will consolidate AMS’ views and advice on the ACICE; and AC
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p style="margin-bottom:12.0pt" class="MsoNormal"><span style="font-size:12.0pt;
   mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
-  Calibri;color:#000000">Director-General, Cyber Center, Defense Information&nbsp;and Space Technology Department, Ministry of Defence&nbsp;<b><u></u></b></span></p><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
+  Calibri;color:#000000">Director-General, Cyber Center, Defense Information&nbsp;and Space Technology Department, Ministry of Defence<b><u></u></b></span></p><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Deputy Director-General, Cyber Center, Defense Information&nbsp;and Space Technology Department, Ministry of Defence</span></p><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:91.3pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="122"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Vietnam</span></p></td><td style="width:191.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Snr COL Nguyen Tung Hung&gt;</span></p></td><td style="width:141.35pt;border-top:none;border-left:
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Snr COL Nguyen Tung Hung</span></p></td><td style="width:141.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Deputy Chief of Staff Division, Cyber Command</span></p></td></tr></tbody></table>
