@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#402189"
-resources_name: resource
+resources_name: publications
 description: ADMM Cybersecurity and Information Centre of Excellence
 permalink: none
 baseurl: ""
