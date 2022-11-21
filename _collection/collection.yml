@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - AAAA/.keep
       - page/.keep
       - page/sub-page.md
