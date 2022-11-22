@@ -25,4 +25,10 @@ sections:
       url: /capabilities/
       image: /images/Our_Capabilities_7nov.jpg
       alt: Our Capabilities
+  - infopic:
+      title: Our Activities
+      button: Find out more
+      url: /activities/
+      image: /images/OK-Photo 1.jpg
+      alt: Image alt text
 ---
