@@ -16,4 +16,7 @@ sections:
         - title: ASEAN Defence Ministers’ Meeting (ADMM)
           description: Learn more about the ADMM
           url: https://admm.asean.org
+  - resources:
+      title: Reports
+      button: Find out more
 ---
