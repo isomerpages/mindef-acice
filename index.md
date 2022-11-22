@@ -19,4 +19,10 @@ sections:
   - resources:
       title: Reports
       button: Find out more
+  - infopic:
+      title: Our Capabilities
+      button: Find out more
+      url: /capabilities/
+      image: /images/Our_Capabilities_7nov.jpg
+      alt: Our Capabilities
 ---
