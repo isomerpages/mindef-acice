@@ -12,11 +12,11 @@ Some of the Centre of Excellence’s activities include:
 * Supporting the ACDN such as by hosting and facilitating visits, including the network’s meetings and activities, and disseminating the Centre’s cybersecurity products through the ACDN network to enhance awareness and discussions
 
 ![](/images/Photo%201.jpg)
-<p style="font-size:10px">General (GEN) Phan Van Giang, Vietnam's Minister of National Defence (extreme left), Cambodia's Deputy Prime Minister and Minister of National Defence GEN Tea Banh (second from left), Minister for Defence Dr Ng Eng Hen (second from right) and Pehin Datu Lailaraja Major General (Retired) Dato Padu</p>
+<span style="font-size:10px">General (GEN) Phan Van Giang, Vietnam's Minister of National Defence (extreme left), Cambodia's Deputy Prime Minister and Minister of National Defence GEN Tea Banh (second from left), Minister for Defence Dr Ng Eng Hen (second from right) and Pehin Datu Lailaraja Major General (Retired) Dato Padu</span>
 
 ![](/images/OK%20-%20Photo%202.jpg)
-<p style="font-size:10px">Dr Ng (left) and GEN Prawit Wongsuwon, Thailand's Deputy Prime Minister (right) at the 16th ADMM</p>
+<span style="font-size:10px">Dr Ng (left) and GEN Prawit Wongsuwon, Thailand's Deputy Prime Minister (right) at the 16th ADMM</span>
 
 
 ![](/images/Our_Activities_7nov.jpg)
-<p style="font-size:10px">ASEAN Defence Ministers at the ADMM Retreat Dinner in 2018</p>
+<span style="font-size:10px">ASEAN Defence Ministers at the ADMM Retreat Dinner in 2018</span>
