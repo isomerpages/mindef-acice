@@ -3,4 +3,4 @@ title: MISP
 permalink: /misp/
 description: ""
 ---
-Pending content
+Coming Soon.
