@@ -1,36 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: ACICE
+description: ADMM Cybersecurity and Information Centre of Excellence
+image: /images/ACICE Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: ACICE
+      subtitle: ADMM Cybersecurity and Information Centre of Excellence
+      background: /images/ACICE-Web-Banner-v2-w-o-BG.png
+      button: Find out more
+      url: /aboutacice/
+      key_highlights:
+        - title: ASEAN Defence Ministers’ Meeting (ADMM)
+          description: Learn more about the ADMM
+          url: https://admm.asean.org
+  - infopic:
+      title: Our Capabilities
+      button: Find out more
+      url: /capabilities/
+      image: /images/Our_Capabilities_7nov.jpg
+      alt: Our Capabilities
+  - infopic:
+      title: Our Activities
+      button: Find out more
+      url: /activities/
+      image: /images/OK-Photo 1.jpg
+      alt: Image alt text
+  - resources:
+      title: Reports
+      button: Find out more
 ---
-

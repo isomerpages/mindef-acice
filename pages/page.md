@@ -1,4 +1,5 @@
 ---
 title: Page
-permalink: /page
+permalink: /page/
 ---
+Lorem ipsum
