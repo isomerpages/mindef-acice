@@ -6,7 +6,7 @@ agency_name: ACICE
 contacts:
   - content:
       - phone: ""
-      - email: digitalmedia@defence.gov.sg
+      - email: acice@defence.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 ---
