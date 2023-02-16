@@ -31,7 +31,7 @@ The Advisory Board will consolidate AMS’ views and advice on the ACICE; and AC
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Joint Force Commander, Royal Brunei Armed Forces</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:91.3pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="122"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Cambodia (Chair)</span></p></td><td style="width:191.35pt;border-top:none;border-left:
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Cambodia </span></p></td><td style="width:191.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">BG Phorn Rithysak</span></p><p class="MsoNormal"><i><span style="font-size:12.0pt;mso-ascii-font-family:
@@ -49,7 +49,7 @@ The Advisory Board will consolidate AMS’ views and advice on the ACICE; and AC
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Chief of Cybersecurity Office, Department of Telecommunication, Ministry of National Defence</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:91.3pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="122"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Indonesia</span></p></td><td style="width:191.35pt;border-top:none;border-left:
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Indonesia (Chair)</span></p></td><td style="width:191.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">COL Wicaksono&nbsp;</span></p></td><td style="width:141.35pt;border-top:none;border-left:
