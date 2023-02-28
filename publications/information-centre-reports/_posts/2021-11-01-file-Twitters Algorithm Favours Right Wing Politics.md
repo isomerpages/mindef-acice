@@ -1,8 +1,9 @@
 ---
-title: Nov 2021
+title: Twitters Algorithm Favours Right Wing Politics
 date: 2021-11-01
 layout: file
 description: ""
 image: ""
 file_url: /files/Information Centre Reports/Nov-21.pdf
 ---
+
