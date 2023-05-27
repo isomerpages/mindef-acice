@@ -2,4 +2,5 @@ collections:
   press-and-news:
     output: true
     order:
+      - 1st Virtual Advisory Board Meeting.md
       - Press & News.md
