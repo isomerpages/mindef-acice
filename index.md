@@ -33,7 +33,7 @@ sections:
       button: FIND OUT MORE
       url: /2023-defence-symposium
       image: /images/acice admm cybersecurity & information centre of excellence
-        (4).png
+        (5).png
       alt: Image alt text
   - resources:
       title: Reports
