@@ -15,8 +15,6 @@ links:
         url: /activities
   - title: Publications
     url: /resource/
-  - title: MISP
-    url: /misp/
   - title: PRESS & NEWS
     url: /news/
     sublinks:
@@ -26,3 +24,5 @@ links:
         url: /permalink
       - title: Defence Symposium
         url: /permalink
+  - title: MISP
+    url: /misp/
