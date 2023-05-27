@@ -4,6 +4,7 @@ permalink: /acice-events/
 description: ""
 ---
 **2023**
+
 | Date | Meeting/Events | Venue |
 | -------- | -------- | -------- |
 |17 July | Digital Defence Symposium | Park Royal Collections|
