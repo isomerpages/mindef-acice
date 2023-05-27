@@ -15,7 +15,8 @@ links:
         url: /activities
   - title: Publications
     url: /resource/
-  - title: PRESS & NEWS
-    collection: publicity
   - title: MISP
     url: /misp/
+  - title: PRESS & NEWS
+    url: /news/
+    sublinks: []
