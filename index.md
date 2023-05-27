@@ -17,6 +17,13 @@ sections:
           description: Learn more about the ADMM
           url: https://admm.asean.org
   - infopic:
+      title: Upcoming Events
+      button: FIND OUT MORE
+      url: /2023-defence-symposium
+      image: /images/acice admm cybersecurity & information centre of excellence
+        (6).png
+      alt: Image alt text
+  - infopic:
       title: Our Capabilities
       button: Find out more
       url: /capabilities/
@@ -27,13 +34,6 @@ sections:
       button: Find out more
       url: /activities/
       image: /images/OK-Photo 1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Upcoming Events
-      button: FIND OUT MORE
-      url: /2023-defence-symposium
-      image: /images/acice admm cybersecurity & information centre of excellence
-        (6).png
       alt: Image alt text
   - resources:
       title: Reports
