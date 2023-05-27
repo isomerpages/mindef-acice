@@ -11,4 +11,4 @@ The ADMM Cyersecurity and Information Centre of Excellence (ACICE) Advisory Boar
 
 
 ![](/images/screenshot%202023-05-27%20144023.jpg)
-*Screenshot of Advisory Board Meeting Held via Zoom*
+*Screenshot of Advisory Board Meeting held via Zoom*
