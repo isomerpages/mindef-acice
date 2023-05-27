@@ -1,5 +1,4 @@
 collections:
   publicity:
     output: true
-    order:
-      - Advisory Board Meeting (Nov 2022).md
+    order: []
