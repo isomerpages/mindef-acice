@@ -1,0 +1,4 @@
+collections:
+  publicity:
+    output: true
+    order: []
