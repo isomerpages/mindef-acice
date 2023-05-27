@@ -15,12 +15,7 @@ links:
         url: /activities
   - title: Publications
     url: /resource/
-  - title: Press & News
-    url: /news
-    sublinks:
-      - title: Advisory Board Meetings
-        url: /advisory-board-meetings/
-  - title: MISP
-    url: /misp/
   - title: PRESS & NEWS
     collection: publicity
+  - title: MISP
+    url: /misp/
