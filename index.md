@@ -28,6 +28,13 @@ sections:
       url: /activities/
       image: /images/OK-Photo 1.jpg
       alt: Image alt text
+  - infopic:
+      title: Upcoming Events
+      button: FIND OUT MORE
+      url: /2023-defence-symposium
+      image: /images/acice admm cybersecurity & information centre of excellence
+        (3).png
+      alt: Image alt text
   - resources:
       title: Reports
       button: Find out more
