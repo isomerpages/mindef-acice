@@ -1,4 +1,5 @@
 collections:
   press-and-news:
     output: true
-    order: []
+    order:
+      - Press & News.md
