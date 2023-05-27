@@ -2,6 +2,6 @@ collections:
   publicity:
     output: true
     order:
-      - Advisory Board Meeting (Nov 2022).md
-      - Advisory Board Meetings.md
       - Press & News.md
+      - Advisory Board Meetings.md
+      - Advisory Board Meeting (Nov 2022).md
