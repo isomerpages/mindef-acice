@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Upcoming Events
       button: FIND OUT MORE
-      url: /2023-defence-symposium
+      url: /2023-acice-events/
       image: /images/acice admm cybersecurity & information centre of excellence
         (6).png
       alt: Image alt text
