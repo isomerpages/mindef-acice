@@ -19,4 +19,10 @@ links:
     url: /misp/
   - title: PRESS & NEWS
     url: /news/
-    sublinks: []
+    sublinks:
+      - title: Launch of ACICE Centre
+        url: /permalink
+      - title: Advisory Board Meetings
+        url: /permalink
+      - title: Defence Symposium
+        url: /permalink
