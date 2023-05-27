@@ -2,4 +2,5 @@ collections:
   publicity:
     output: true
     order:
+      - Advisory Board Meetings.md
       - Press & News.md
