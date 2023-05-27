@@ -1,4 +1,5 @@
 collections:
   publicity:
     output: true
-    order: []
+    order:
+      - Press & News.md
