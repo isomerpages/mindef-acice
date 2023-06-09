@@ -15,8 +15,8 @@ links:
         url: /activities
   - title: Publications
     url: /resource/
-  - title: Press & News
-    url: /news/
+  - title: News & Events
+    url: /news-and-events/
     sublinks:
       - title: Launch of ACICE Centre
         url: /acicecentrelaunch/
@@ -24,7 +24,7 @@ links:
         url: /permalink
       - title: Digital Defence Symposium
         url: /digitaldefencesymposium/
+      - title: Upcoming Events
+        url: /acice-events/
   - title: MISP
     url: /misp/
-  - title: Events
-    url: /acice-events/
