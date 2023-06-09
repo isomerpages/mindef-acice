@@ -3,7 +3,7 @@ title: Advisory Board Meetings
 permalink: /permalink/
 description: ""
 ---
-Please find press coverage of our Advisory Board Meetings and Events here.  
+Please find press coverage of our Advisory Board Meetings here.  
 
 2nd Advisory Board Meeting: [Nov 2022](/adboardmeeting-nov22/)
 
