@@ -4,7 +4,7 @@ permalink: /acice-events/
 description: ""
 ---
 A list of our upcoming events can be found below:
-##### **2023**
+##### **Year 2023**
 
 | Date | Meeting/Events | Venue |
 | -------- | -------- | -------- |
