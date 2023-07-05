@@ -12,4 +12,3 @@ A list of our upcoming events can be found below:
 |17 July | ASEAN Roundtable | Park Royal Collections Marina Bay|
 |18 July | ACICE Official Opening Ceremony| Changi Naval Base|
 |18 July | 2nd Advisory Board Meeting | Changi Naval Base|
-
