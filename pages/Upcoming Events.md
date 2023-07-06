@@ -6,7 +6,7 @@ description: ""
 A list of our upcoming events can be found below:
 ##### **2023**
 
-| Date | Meeting/Events | Venue |
+| Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
 |17 July | Digital Defence Symposium | Park Royal Collection Marina Bay |
 |17 July | 1st Experts Panel Meeting | Park Royal Collection Marina Bay |
