@@ -17,6 +17,13 @@ sections:
           description: Learn more about the ADMM
           url: https://admm.asean.org
   - infopic:
+      title: Upcoming Events
+      button: FIND OUT MORE
+      url: /acice-events/
+      image: /images/acice admm cybersecurity & information centre of excellence
+        (6).png
+      alt: Image alt text
+  - infopic:
       title: Our Capabilities
       button: Find out more
       url: /capabilities/

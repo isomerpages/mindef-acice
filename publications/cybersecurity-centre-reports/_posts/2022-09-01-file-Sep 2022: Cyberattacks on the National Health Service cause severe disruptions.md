@@ -1,5 +1,6 @@
 ---
-title: Sep 2022
+title: "Sep 2022: Cyberattacks on the National Health Service cause severe
+  disruptions"
 date: 2022-09-01
 layout: file
 description: ""
