@@ -1,5 +1,6 @@
 ---
-title: Apr 2023
+title: "Emerging Frontiers: Exploring Data Breach Lessons, Splinternet Risks and
+  Generative AI"
 date: 2023-04-01
 layout: file
 description: ""

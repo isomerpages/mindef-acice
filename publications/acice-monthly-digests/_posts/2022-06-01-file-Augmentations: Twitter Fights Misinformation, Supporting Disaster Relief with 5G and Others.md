@@ -1,5 +1,6 @@
 ---
-title: Jun 2022
+title: "Augmentations: Twitter Fights Misinformation, Supporting Disaster Relief
+  with 5G and Others"
 date: 2022-06-01
 layout: file
 description: ""

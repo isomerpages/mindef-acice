@@ -1,5 +1,6 @@
 ---
-title: Jul 2022
+title: "Automated Allies: AI Assisted Navigation, Dark Web Data Protection
+  Technology and Others"
 date: 2022-07-01
 layout: file
 description: ""

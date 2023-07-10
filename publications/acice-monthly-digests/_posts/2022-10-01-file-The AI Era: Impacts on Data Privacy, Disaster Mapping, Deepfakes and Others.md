@@ -1,5 +1,5 @@
 ---
-title: Oct 2022
+title: "The AI Era: Impacts on Data Privacy, Disaster Mapping, Deepfakes and Others"
 date: 2022-10-01
 layout: file
 description: ""

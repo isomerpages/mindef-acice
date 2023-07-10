@@ -1,5 +1,6 @@
 ---
-title: Dec 2022
+title: "Safeguards and Solutions: New Youth Protection Features, Microgrids and
+  Cyber Piracy"
 date: 2022-12-01
 layout: file
 description: ""

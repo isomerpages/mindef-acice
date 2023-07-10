@@ -1,5 +1,6 @@
 ---
-title: Sep 2022
+title: "Uncharted Waters: Blockchain Technology and Shipping, Robotaxi Risks and
+  Evolving Ransomware Tactics"
 date: 2022-09-01
 layout: file
 description: ""

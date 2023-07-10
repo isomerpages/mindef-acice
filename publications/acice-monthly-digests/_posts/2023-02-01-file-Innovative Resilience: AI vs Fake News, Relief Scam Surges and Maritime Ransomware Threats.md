@@ -1,5 +1,6 @@
 ---
-title: Feb 2023
+title: "Innovative Resilience: AI vs Fake News, Relief Scam Surges and Maritime
+  Ransomware Threats"
 date: 2023-02-01
 layout: file
 description: ""
