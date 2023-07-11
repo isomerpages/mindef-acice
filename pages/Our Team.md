@@ -4,7 +4,7 @@ permalink: /ourteam/
 description: ""
 ---
 <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
-width="200" 
-height="300" />
-**Executive Director**
+width="140" 
+height="200" />
+<br>**Executive Director**
 <br>Ms Yeo Seow Peng
