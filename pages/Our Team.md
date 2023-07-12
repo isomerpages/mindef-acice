@@ -13,7 +13,7 @@ Mr Chew Wei Yang Eugene <br><br>
 Mr Wong Chiong Hien <br><br>
 **Assistant Director (Research)** <br>
 Ms Kang Xiaoting Janelle <br><br>
-**Assistant Director (Cyber)** <br>
+**Assistant Director (Cybersecurity)** <br>
 Ms Janie Leong <br><br>
 **Assistant Manager (Information)**<br>
 Mr Yash Kanaya <br><br>
