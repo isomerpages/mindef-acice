@@ -24,10 +24,12 @@ links:
         url: /acicecentrelaunch/
       - title: Advisory Board Meetings
         url: /advisoryboardmeetings
-      - title: Digital Defence Symposium
+      - title: Digital Defence Symposiums
         url: /digitaldefencesymposium/
-      - title: ASEAN Roundtable
+      - title: ASEAN Roundtables
         url: /aseanroundtable
+      - title: Experts Panel Meetings
+        url: /expertspanelmeetings
   - title: Upcoming Events
     url: /acice-events/
   - title: MISP
