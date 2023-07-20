@@ -3,9 +3,15 @@ title: Events
 permalink: /acice-events/
 description: ""
 ---
-A list of our upcoming events can be found below:
-##### **2023**
+A list of our past and upcoming events can be found below:
+#### **2023**
+##### Upcoming
 
+| Date | Meetings/Events | Venue |
+| -------- | -------- | -------- |
+| -     | -    | -    |
+
+##### Past
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
 |17 July | Digital Defence Symposium | Park Royal Collection Marina Bay |
