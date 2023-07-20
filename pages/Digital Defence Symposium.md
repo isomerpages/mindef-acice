@@ -5,4 +5,4 @@ description: ""
 ---
 Please find press coverage of our Digital Defence Symposiums here.
 
-*   1st Digital Defence Symposium: [Jul 2023](https://cms.isomer.gov.sg/firstdigitaldefencesymposium/)
+*   1st Digital Defence Symposium: [Jul 2023](https://cms.isomer.gov.sg/firstdigitaldefencesymposium/)
