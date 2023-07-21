@@ -7,5 +7,6 @@ The 2nd ADMM Cybersecurity and Information Centre of Excellence (ACICE) Advisory
 
 ![](/images/adboard1.jpg)
 <br>
+
 ![](/images/adboard2.jpg)
 *The 2nd Advisory Board Meeting, chaired by BG Tri Rana Subekti*
