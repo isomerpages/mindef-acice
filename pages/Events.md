@@ -6,11 +6,13 @@ description: ""
 A list of our past and upcoming events can be found below:
 
 ##### Upcoming <br>
+
 | Date | Meetings/Events | Venue |
 | -------- | --------    | -------- |
 |       |           |       |
 
 ##### Past <br>
+
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
 | 17 July 2023 | Digital Defence Symposium | Park Royal Collection Marina Bay |
