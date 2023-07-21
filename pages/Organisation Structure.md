@@ -133,25 +133,13 @@ The progress of ACICE will be reported annually to the ADMM through the ADSOM an
 
 ACICE is also supported by prominent cyber and information experts around the world. They are:
 
-* Mr Benjamin Ang, Dy Head CENS, NTU RSIS
-* Prof. Chen Dongxiao, President, Shanghai Institutes for International Affairs
-* Mr Nicholas Fang, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
-* Dr Kiran Garimella, Assistant Professor, School of Communication and Information, Rutgers University
-* Prof. Eun-Ju Lee, Director, Center for Trustworthy AI, Seoul National University
-* Mr Christopher Painter, President, Global Forum on Cyber Expertise Foundation
-* Dr James Pamment, Director, Psychological Defence Research Institute, Lund University
-* Ms Dongyoun Cho, Senior Researcher, Security and Technology Programme, United Nations Institute for Disarmament Research
-* Mr Tan Ah Tuan, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
-* Dr Thitinan Pongsudhirak, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
-
-
-
-
-
-
-
-
-
-
-
-
+* **Mr Benjamin Ang**, Dy Head CENS, NTU RSIS
+* **Prof. Chen Dongxiao**, President, Shanghai Institutes for International Affairs
+* **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
+* **Dr Kiran Garimella**, Assistant Professor, School of Communication and Information, Rutgers University
+* **Prof. Eun-Ju Lee**, Director, Center for Trustworthy AI, Seoul National University
+* **Mr Christopher Painter**, President, Global Forum on Cyber Expertise Foundation
+* **Dr James Pamment**, Director, Psychological Defence Research Institute, Lund University
+* **Ms Dongyoun Cho**, Senior Researcher, Security and Technology Programme, United Nations Institute for Disarmament Research
+* **Mr Tan Ah Tuan**, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
+* **Dr Thitinan Pongsudhirak**, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
