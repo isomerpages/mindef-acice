@@ -5,15 +5,13 @@ description: ""
 ---
 A list of our past and upcoming events can be found below:
 
-##### Upcoming 
-<br>
+#### Upcoming <br>
 
 | Date | Meetings/Events | Venue |
 | -------- | --------    | -------- |
 |       |           |       |
 
-##### Past 
-<br>
+#### Past <br>
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
