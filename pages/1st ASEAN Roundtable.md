@@ -7,5 +7,6 @@ The ASEAN Roundtable on Digital Defence was held on **17 Jul 2023**. The Roundta
 
 ![](/images/roundtable%201.jpg)
 <br>
+
 ![](/images/roundtable%202.jpg)
 *ASEAN Delegates at the inaugural ASEAN Roundtable on Digital Defence, held at the ParkRoyal Collection Hotel in Marina Bay*
