@@ -8,7 +8,7 @@ A list of our past and upcoming events can be found below:
 ##### Upcoming
 | Date | Meetings/Events | Venue |
 | -------- | --------    | -------- |
-| -        | -           | -        |
+|       |           |       |
 
 ##### Past
 | Date | Meetings/Events | Venue |
