@@ -12,7 +12,7 @@ The inaugural Digital Defence Symposium took place on **July 17, 2023**, at the 
 	*First Plenary Session - Perspectives on Cybersecurity Challenges and Digital Defence, comprising Ms Dongyoun Cho, Prof. Chen Dongxiao, Mr Tan Ah Tuan, and Mr Christopher Painter, moderated by Mr Benjamin Ang (from left to right)* <br>
 	
 ![](/images/dds_p2.jpg)
-*Second Plenary Session - Perspectives on Information Challenges and Digital Defence, comrprising Dr James Pamment, Prof. Eun-Ju Lee, Dr Kiran Garimella, and Mr Nicholas Fang, moderated by Dr Ong Wei Chong* 
+*Second Plenary Session - Perspectives on Information Challenges and Digital Defence, comprising Dr James Pamment, Prof. Eun-Ju Lee, Dr Kiran Garimella, and Mr Nicholas Fang, moderated by Dr Ong Wei Chong* 
 <br>
 
 ![](/images/dds_p3.jpg)
