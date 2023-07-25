@@ -106,7 +106,7 @@ border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="f
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Vietnam</span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">MAJ Nhuan Duoung Do</span></p></td><td width="188" valign="top" style="width:141.35pt;border-top:none;border-left:
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">MAJ Nhuan Duong Do</span></p></td><td width="188" valign="top" style="width:141.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#000000">Deputy Head of Division Cyber Command, Ministry of Defence</span></p></td></tr></tbody></table>
