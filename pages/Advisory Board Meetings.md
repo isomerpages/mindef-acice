@@ -1,6 +1,6 @@
 ---
 title: Advisory Board Meetings
-permalink: /permalink/
+permalink: /advisoryboardmeetings/
 description: ""
 ---
 Please find press coverage of our Advisory Board Meetings here.  

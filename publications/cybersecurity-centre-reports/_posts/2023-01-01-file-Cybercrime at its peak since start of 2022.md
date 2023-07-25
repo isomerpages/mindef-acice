@@ -1,5 +1,5 @@
 ---
-title: "Jan 2023: Cybercrime at its peak since start of 2022"
+title: Cybercrime at its peak since start of 2022
 date: 2023-01-01
 layout: file
 description: ""

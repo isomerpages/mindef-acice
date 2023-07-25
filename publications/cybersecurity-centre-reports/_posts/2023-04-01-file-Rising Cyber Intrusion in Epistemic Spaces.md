@@ -1,5 +1,5 @@
 ---
-title: "Apr 2023: Rising Cyber Intrusion in Epistemic Spaces"
+title: Rising Cyber Intrusion in Epistemic Spaces
 date: 2023-04-01
 layout: file
 description: ""

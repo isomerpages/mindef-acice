@@ -9,6 +9,8 @@ links:
         url: /orgstructure
       - title: Mission and Values
         url: /missionvalues
+      - title: Our Team
+        url: /ourteam
       - title: Our Capabilities
         url: /capabilities
       - title: Our Activities
@@ -21,10 +23,14 @@ links:
       - title: Launch of ACICE Centre
         url: /acicecentrelaunch/
       - title: Advisory Board Meetings
-        url: /permalink
-      - title: Digital Defence Symposium
+        url: /advisoryboardmeetings
+      - title: Digital Defence Symposiums
         url: /digitaldefencesymposium/
-  - title: Upcoming Events
+      - title: ASEAN Roundtable
+        url: /aseanroundtable
+      - title: Experts Panel Meetings
+        url: /expertspanelmeetings
+  - title: Events
     url: /acice-events/
   - title: MISP
     url: /misp/

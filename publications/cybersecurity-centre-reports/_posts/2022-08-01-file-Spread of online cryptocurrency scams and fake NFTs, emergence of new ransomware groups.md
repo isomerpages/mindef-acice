@@ -1,6 +1,6 @@
 ---
-title: "Aug 2022: Spread of online crypto scams and fake NFTs, emergence of new
-  ransomware groups"
+title: Spread of online cryptocurrency scams and fake NFTs, emergence of new
+  ransomware groups
 date: 2022-08-01
 layout: file
 description: ""

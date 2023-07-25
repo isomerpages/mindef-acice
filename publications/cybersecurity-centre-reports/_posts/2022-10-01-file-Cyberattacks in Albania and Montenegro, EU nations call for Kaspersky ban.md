@@ -1,6 +1,5 @@
 ---
-title: "Oct 2022: Cyberattacks in Albania and Montenegro, EU nations call for
-  Kaspersky ban"
+title: Cyberattacks in Albania and Montenegro, EU nations call for Kaspersky ban
 date: 2022-10-01
 layout: file
 description: ""

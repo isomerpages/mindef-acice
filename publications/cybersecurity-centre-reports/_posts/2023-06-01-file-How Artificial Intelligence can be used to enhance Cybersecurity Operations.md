@@ -1,6 +1,5 @@
 ---
-title: "Jun 2023: How Artificial Intelligence can be used to enhance
-  Cybersecurity Operations"
+title: How Artificial Intelligence can be used to enhance Cybersecurity Operations
 date: 2023-06-01
 layout: file
 description: ""
