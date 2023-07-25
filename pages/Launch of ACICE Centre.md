@@ -14,4 +14,4 @@ The ASEAN Defence Ministers' Meeting (ADMM) Cybersecurity and Information Centre
 <br>
 
 ![](/images/opening3.jpg)
-*Dr Ng Eng Hen and Executive Director for ACICE, Ms Yeo Seow Peng, pose with ASEAN defence officials and experts*
+*Dr Ng Eng Hen and Executive Director for ACICE, Ms Yeo Seow Peng, with ASEAN defence officials and experts*
