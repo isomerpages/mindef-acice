@@ -127,6 +127,6 @@ ACICE is also supported by prominent cyber and information experts around the wo
 * **Prof. Eun-Ju Lee**, Director, Center for Trustworthy AI, Seoul National University
 * **Mr Christopher Painter**, President, Global Forum on Cyber Expertise Foundation
 * **Dr James Pamment**, Director, Psychological Defence Research Institute, Lund University
-* **Ms Dongyoun Cho**, Senior Researcher, Security and Technology Programme, United Nations Institute for Disarmament Research
-* **Mr Tan Ah Tuan**, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
+* **Mr Giacomo Persi Paoli**, Head of Programme, Security and Technology, United Nations Institute for Disarmament Research
 * **Dr Thitinan Pongsudhirak**, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
+* **Mr Tan Ah Tuan**, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
