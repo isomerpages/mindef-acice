@@ -7,6 +7,5 @@ The 1st Experts Panel Meeting was held on **17 July 2023**. The meeting was chai
 
 ![](/images/experts1.jpg)
 <br>
-
 ![](/images/experts2.jpg)
 *BG Ng Pak Shun, together with international experts, at the inaugural Experts Panel Meeting held at the PARKROYAL COLLECTION Hotel in Marina Bay*
