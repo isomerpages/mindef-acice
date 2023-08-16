@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mindef-acice-staging.netlify.app/
+staging: https://staging.dkdof6heas8fr.amplifyapp.com/
 prod: https://master.dkdof6heas8fr.amplifyapp.com/
 shareicon: /images/acice logo.png
 is_government: false
