@@ -4,5 +4,5 @@ date: 2022-06-01
 layout: file
 description: ""
 image: ""
-file_url: /files/Cybersecurity Centre Reports/Jun-22.pdf
+file_url: /files/cybersecurity centre reports/jun-22.pdf
 ---

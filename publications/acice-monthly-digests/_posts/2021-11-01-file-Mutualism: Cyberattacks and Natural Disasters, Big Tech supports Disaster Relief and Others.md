@@ -5,5 +5,5 @@ date: 2021-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/ACICE Monthly Digests/Nov_21.pdf
+file_url: /files/acice monthly digests/nov_21.pdf
 ---

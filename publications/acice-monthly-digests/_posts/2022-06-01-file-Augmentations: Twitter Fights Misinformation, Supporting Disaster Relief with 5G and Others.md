@@ -5,5 +5,5 @@ date: 2022-06-01
 layout: file
 description: ""
 image: ""
-file_url: /files/ACICE Monthly Digests/Jun_22.pdf
+file_url: /files/acice monthly digests/jun_22.pdf
 ---

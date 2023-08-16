@@ -2,14 +2,14 @@
 layout: homepage
 title: ACICE
 description: ADMM Cybersecurity and Information Centre of Excellence
-image: /images/ACICE Logo.png
+image: /images/acice logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: ACICE
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
-      background: /images/ACICE-Web-Banner-v2-w-o-BG.png
+      background: /images/acice-web-banner-v2-w-o-bg.png
       button: Find out more
       url: /aboutacice/
       key_highlights:
@@ -27,13 +27,13 @@ sections:
       title: Our Capabilities
       button: Find out more
       url: /capabilities/
-      image: /images/Our_Capabilities_7nov.jpg
+      image: /images/our_capabilities_7nov.jpg
       alt: Our Capabilities
   - infopic:
       title: Our Activities
       button: Find out more
       url: /activities/
-      image: /images/OK-Photo 1.jpg
+      image: /images/ok-photo 1.jpg
       alt: Image alt text
   - resources:
       title: Reports
