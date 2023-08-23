@@ -1,6 +1,6 @@
 title: ACICE
 url: https://www.acice-asean.org
-favicon: /images/ACICE Logo.png
+favicon: /images/acice logo.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -50,9 +50,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mindef-acice-staging.netlify.app
-prod: https://mindef-acice-prod.netlify.app
-shareicon: /images/ACICE Logo.png
+staging: https://staging.dkdof6heas8fr.amplifyapp.com/
+prod: https://master.dkdof6heas8fr.amplifyapp.com/
+shareicon: /images/acice logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

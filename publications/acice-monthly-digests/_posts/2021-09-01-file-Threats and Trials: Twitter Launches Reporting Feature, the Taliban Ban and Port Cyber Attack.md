@@ -5,5 +5,5 @@ date: 2021-09-01
 layout: file
 description: ""
 image: ""
-file_url: /files/ACICE Monthly Digests/Sep_21.pdf
+file_url: /files/acice monthly digests/sep_21.pdf
 ---

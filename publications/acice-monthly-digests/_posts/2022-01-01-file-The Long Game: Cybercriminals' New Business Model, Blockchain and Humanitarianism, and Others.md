@@ -5,5 +5,5 @@ date: 2022-01-01
 layout: file
 description: ""
 image: ""
-file_url: /files/ACICE Monthly Digests/Jan-22.pdf
+file_url: /files/acice monthly digests/jan-22.pdf
 ---

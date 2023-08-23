@@ -4,6 +4,6 @@ date: 2022-06-01
 layout: file
 description: ""
 image: ""
-file_url: /files/Information Centre Reports/Jun-22.pdf
+file_url: /files/information centre reports/jun-22.pdf
 ---
 
