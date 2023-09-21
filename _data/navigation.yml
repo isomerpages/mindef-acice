@@ -30,9 +30,12 @@ links:
         url: /aseanroundtable
       - title: Experts Panel Meetings
         url: /expertspanelmeetings
-      - title: Shared Articles
-        url: /sharedarticles
   - title: Events
     url: /acice-events/
   - title: MISP
     url: /misp/
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Shared Articles
+        url: /sharedarticles
