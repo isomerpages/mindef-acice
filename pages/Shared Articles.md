@@ -47,4 +47,3 @@ By Muhammad Faizal Bin Abdul Rahman
 This article was first published on IDSS Paper, No, 001/2023 on 4 January 2023
 
 https://www.rsis.edu.sg/wp-content/uploads/2023/01/IP23001.pdf
-
