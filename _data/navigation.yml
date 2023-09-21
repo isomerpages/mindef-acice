@@ -35,7 +35,7 @@ links:
   - title: MISP
     url: /misp/
   - title: Resources
-    url: /permalink
+    url: /sharedarticles
     sublinks:
       - title: Shared Articles
         url: /sharedarticles
