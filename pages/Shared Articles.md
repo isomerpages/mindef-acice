@@ -40,7 +40,7 @@ This article was first published on IDSS Paper, No. 055/2023 on 31 July 2023
 
 [https://www.rsis.edu.sg/wp-content/uploads/2023/07/IP23055.pdf](https://www.rsis.edu.sg/wp-content/uploads/2023/07/IP23055.pdf)
 
-**Advancing Cyber and Information Security Cooperation in ASEAN **
+**Advancing Cyber and Information Security Cooperation in ASEAN**
 
 By Muhammad Faizal Bin Abdul Rahman 
 
