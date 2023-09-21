@@ -3,15 +3,13 @@ title: Our Team
 permalink: /ourteam/
 description: ""
 ---
-
 ![](/images/acice%20team.jpg)
 
 **Executive Director**<br>
 Ms Yeo Seow Peng
 <br> <br>**Deputy Director (Information)**<br>
 Ms Gail Wan Wei Ping <br><br>
-**Deputy Director (Research)**<br>
-Mr Chew Wei Yang Eugene <br> Ms Eng Man Yan<br><br>
+**Deputy Director (Research)**<br>Ms Eng Man Yan<br><br>
 **Assistant Director (Information)**<br>
 Mr Wong Chiong Hien <br><br>
 **Assistant Director (Research)** <br>
@@ -23,8 +21,3 @@ Mr Yash Kanaya <br>
 Ms Lee Su Juan Janese <br><br>
 **Senior Executive (Logistics and Operations)**
 <br>Mr Peter Koh
-
-
-
-
-
