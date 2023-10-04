@@ -34,3 +34,8 @@ links:
     url: /acice-events/
   - title: MISP
     url: /misp/
+  - title: Resources
+    url: /sharedarticles
+    sublinks:
+      - title: Shared Articles
+        url: /sharedarticles
