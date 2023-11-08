@@ -38,4 +38,11 @@ sections:
   - resources:
       title: Reports
       button: Find out more
+  - infobar:
+      title: Partner Institution's Articles
+      subtitle: Add informational text
+      id: infobar
+      description: We curate relevant articles from our partner Institutions and Experts
+      button: Click here to read
+      url: /
 ---
