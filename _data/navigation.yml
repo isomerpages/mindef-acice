@@ -34,3 +34,6 @@ links:
     url: /acice-events/
   - title: MISP
     url: /misp/
+  - title: Partner's Articles
+    url: /partnersarticles/
+    sublinks: []
