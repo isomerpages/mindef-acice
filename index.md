@@ -44,5 +44,5 @@ sections:
       id: infobar
       description: We curate relevant articles from our partner Institutions and Experts
       button: Click here to read
-      url: /partnersarticles
+      url: /partnersarticles/
 ---
