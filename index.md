@@ -45,4 +45,13 @@ sections:
       description: We curate relevant articles from our partner Institutions and Experts
       button: Click here to read
       url: /partnersarticles/
+  - infopic:
+      title: Partner Articles
+      subtitle: Add an image and text
+      id: infopic
+      description: We curate relevant articles from our partner Institutions and Experts
+      button: Click here to read more
+      url: /
+      image: /images/IMG_7974.jpg
+      alt: Image alt text
 ---
