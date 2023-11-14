@@ -1,6 +1,6 @@
 ---
 title: Articles from our Experts
 permalink: /expertsarticles/
-variant: tiptap
+variant: markdown
 description: ""
 ---
