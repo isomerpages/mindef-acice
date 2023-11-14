@@ -1,6 +1,6 @@
 ---
 title: RSIS Articles
 permalink: /rsisarticles/
-variant: tiptap
+variant: markdown
 description: ""
 ---
