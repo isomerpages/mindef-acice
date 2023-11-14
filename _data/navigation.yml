@@ -36,3 +36,10 @@ links:
     url: /misp/
   - title: Partner's Articles
     url: /partnersarticles/
+  - title: Partner's Articles
+    url: /partnerarticles/
+    sublinks:
+      - title: RSIS Articles
+        url: /rsisarticles/
+      - title: Experts Articles
+        url: /expertsarticles/
