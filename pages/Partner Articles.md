@@ -1,6 +1,10 @@
 ---
 title: Partner Articles
 permalink: /partnerarticles/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+/rsisarticles/ 
+
+
+/expertsarticles/ 
