@@ -38,13 +38,6 @@ sections:
   - resources:
       title: Reports
       button: Find out more
-  - infobar:
-      title: ACICE's Partners Articles
-      subtitle: Add informational text
-      id: infobar
-      description: We curate relevant articles from our partner Institutions and Experts
-      button: Click here to read
-      url: /partnersarticles/
   - infopic:
       title: Partner Articles
       subtitle: Add an image and text
