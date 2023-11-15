@@ -44,7 +44,7 @@ sections:
       id: infopic
       description: We curate relevant articles from our partner Institutions and Experts
       button: Click here to read more
-      url: /partnerarticles/
+      url: /partnersarticles/
       image: /images/IMG_7974.jpg
       alt: Image alt text
 ---
