@@ -36,8 +36,6 @@ links:
     url: /misp/
   - title: Partner's Articles
     url: /partnersarticles/
-  - title: Partner's Articles
-    url: /partnersarticles/
     sublinks:
       - title: RSIS
         url: /rsisarticles/
