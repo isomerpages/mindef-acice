@@ -9,7 +9,7 @@ description: ""
 
 By Kiran Garimella, Aalto University
 
-Gianmarco de Francisi Morales, Qatar Computing Research Institute
+Gianmarco de Francisci Morales, Qatar Computing Research Institute
 
 Aristides Gionis, Aalto University
 
