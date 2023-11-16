@@ -17,11 +17,11 @@ Michael Mathioudakis, CNRS LIRIS & INSA Lyon
 
 [https://arxiv.org/pdf/1507.05224.pdf](https://arxiv.org/pdf/1507.05224.pdf)
 
-**Political Discourse on Social Media: Echo Chambers,Gatekeepers,and the Price of  Bipartisanship**
+**Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship**
 
 By Kiran Garimella, Aalto University
 
-Gianmarco de Francisci Morales,Qatar Computing Research Institute
+Gianmarco de Francisci Morales, Qatar Computing Research Institute
 
 Aristides Gionis, Aalto University
 
