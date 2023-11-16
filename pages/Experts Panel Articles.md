@@ -7,24 +7,24 @@ description: ""
 # KIRAN GARIMELLA
 **Quantifying Controversy on Social Media**
 
-By KIRAN GARIMELLA, Aalto University
+By Kiran Garimella, Aalto University
 
-GIANMARCO DE FRANCISCI MORALES, Qatar Computing Research Institute
+Gianmarco de Francisi Morales, Qatar Computing Research Institute
 
-ARISTI DESGIONIS, Aalto University
+Aristides Gionis, Aalto University
 
-MICHAEL MATHIOUDAKIS, CNRS LIRIS & INSA Lyon
+Michael Mathioudakis, CNRS LIRIS & INSA Lyon
 
 [https://arxiv.org/pdf/1507.05224.pdf](https://arxiv.org/pdf/1507.05224.pdf)
 
 **Political Discourse on Social Media: Echo Chambers,Gatekeepers,and the Price of  Bipartisanship**
 
-By KIRAN GARIMELLA, Aalto University
+By Kiran Garimella, Aalto University
 
-GIANMARCO DE FRANCISCI MORALES,Qatar Computing Research Institute
+Gianmarco de Francisci Morales,Qatar Computing Research Institute
 
-ARISTI DESGIONIS, Aalto University
+Aristides Gionis, Aalto University
 
-MICHAEL MATHIOUDAKIS, CNRS LIRIS & INSA Lyon
+Michael Mathioudakis, CNRS LIRIS & INSA Lyon
 
 [https://dl.acm.org/doi/pdf/10.1145/3178876.3186139](https://dl.acm.org/doi/pdf/10.1145/3178876.3186139)
