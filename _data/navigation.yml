@@ -34,3 +34,10 @@ links:
     url: /acice-events/
   - title: MISP
     url: /misp/
+  - title: Partner's Articles
+    url: /partnersarticles/
+    sublinks:
+      - title: RSIS
+        url: /rsisarticles/
+      - title: Experts Panel
+        url: /expertsarticles/

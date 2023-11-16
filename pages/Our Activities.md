@@ -2,6 +2,7 @@
 title: Our Activities
 permalink: /activities/
 description: ""
+variant: markdown
 ---
 Some of the Centre of Excellence’s activities include: 
 
@@ -17,6 +18,3 @@ Some of the Centre of Excellence’s activities include:
 ![](/images/ok%20-%20photo%202.jpg)
 <span style="font-size:10px">Dr Ng (left) and GEN Prawit Wongsuwon, Thailand's Deputy Prime Minister (right) at the 16th ADMM</span>
 
-
-![](/images/our_activities_7nov.jpg)
-<span style="font-size:10px">ASEAN Defence Ministers at the ADMM Retreat Dinner in 2018</span>

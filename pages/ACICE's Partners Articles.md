@@ -1,7 +1,8 @@
 ---
-title: Shared Articles
-permalink: /sharedarticles/
+title: ACICE's Partners Articles
+permalink: /partnersarticles/
 description: ""
+variant: markdown
 ---
 # RSIS COMMENTARY
 
@@ -47,3 +48,28 @@ By Muhammad Faizal Bin Abdul Rahman
 This article was first published on IDSS Paper, No, 001/2023 on 4 January 2023
 
 [https://www.rsis.edu.sg/wp-content/uploads/2023/01/IP23001.pdf](https://www.rsis.edu.sg/wp-content/uploads/2023/01/IP23001.pdf)
+
+# KIRAN GARIMELLA
+**Quantifying Controversy on Social Media**
+
+By Kiran Garimella, Aalto University
+
+Gianmarco de Francisci Morales, Qatar Computing Research Institute
+
+Aritisdes Gionis, Aalto University
+
+Michael Mathioudakis, CNRS LIRIS & INSA Lyon
+
+[https://arxiv.org/pdf/1507.05224.pdf](https://arxiv.org/pdf/1507.05224.pdf)
+
+**Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship**
+
+By Kiran Garimella, Aalto University
+
+Gianmarco de Francisci Morales, Qatar Computing Research Institute
+
+Aristides Gionis, Aalto University
+
+Michael Mathioudakis, CNRS LIRIS & INSA Lyon
+
+[https://dl.acm.org/doi/pdf/10.1145/3178876.3186139](https://dl.acm.org/doi/pdf/10.1145/3178876.3186139)
