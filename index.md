@@ -45,4 +45,5 @@ sections:
       button: Click here to read more
       url: /partnersarticles/
       image: /images/IMG_7974.jpg
+      alt: Partner Articles
 ---
