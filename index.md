@@ -40,11 +40,10 @@ sections:
       button: Find out more
   - infopic:
       title: Partner Articles
-      subtitle: Add an image and text
       id: infopic
       description: We curate relevant articles from our partner Institutions and Experts
       button: Click here to read more
       url: /partnersarticles/
       image: /images/IMG_7974.jpg
-      alt: Image alt text
+      alt: Partner Articles
 ---
