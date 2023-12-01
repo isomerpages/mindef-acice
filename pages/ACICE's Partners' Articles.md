@@ -1,5 +1,5 @@
 ---
-title: ACICE's Partners Articles
+title: ACICE's Partners' Articles
 permalink: /partnersarticles/
 description: ""
 variant: markdown
