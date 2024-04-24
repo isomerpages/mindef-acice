@@ -26,3 +26,4 @@ A list of our past and upcoming events can be found below:
 | 17 Jul 2023 | Inaugural Digital Defence Symposium | PARKROYAL COLLECTION Marina Bay |
 | 17 Jul 2023 | 1<sup>st</sup> Experts Panel Meeting | PARKROYAL COLLECTION Marina Bay   |
 | 17 Jul 2023 | 1<sup>st</sup> ASEAN Roundtable on Digital Defence | PARKROYAL COLLECTION Marina Bay |
+| 11 Nov 2022 | 1<sup>st</sup> Advisory Board Meeting | Virtual |
