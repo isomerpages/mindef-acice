@@ -11,7 +11,7 @@ A list of our past and upcoming events can be found below:
 | Date | Meetings/Events | Venue |
 | -------- | --------    | -------- |
 | 25 July 2023 | 3<sup>rd</sup> Advisory Board Meeting | The Fullerton Hotel Singapore |
-| 24 July 2024 | 2<sup>nd</sup> ASEAN Roundtable on Digital Defence  | The Fullerton Hotel Singapore |
+| 24 July 2024 | 2<sup>nd</sup> ASEAN Roundtable on Navigating the Digital Space  | The Fullerton Hotel Singapore |
 | 24-25 July 2024 | 2<sup>nd</sup> Digital Defence Symposium | The Fullerton Hotel Singapore |
 | 23 July 2024 | 3<sup>rd</sup> Experts Panel Meeting | The Fullerton Hotel Singapore |
 |       |           |       |
