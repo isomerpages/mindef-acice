@@ -10,8 +10,7 @@ variant: markdown
 Ms Yeo Seow Peng
 <br> <br>
 **Deputy Director (Research)**<br>Ms Eng Man Yan<br>
-<br>**Deputy Director (Cybersecurity)**<br>
-Ms Patricia Lim Hwei Min<br><br>
+<br>
 **Assistant Director (Information)**<br>
 Mr Wong Chiong Hien <br>
 <br>**Assistant Director (Cybersecurity)** <br>
