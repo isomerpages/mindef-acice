@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/information centre reports/may24_info.pdf
+file_url: /files/may_24_info.pdf
 ---
