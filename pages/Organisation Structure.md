@@ -121,6 +121,8 @@ The progress of ACICE will be reported annually to the ADMM through the ADSOM an
 
 ACICE is also supported by prominent cyber and information experts around the world. They are:
 
+![ACICE Experts Panel Photo](/images/ACICE_Experts_PPT_Slide.png)
+
 * **Mr Benjamin Ang**, Dy Head CENS, NTU RSIS
 * **Prof. Chen Dongxiao**, President, Shanghai Institutes for International Affairs
 * **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
