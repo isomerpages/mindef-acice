@@ -131,5 +131,5 @@ ACICE is also supported by prominent cyber and information experts around the wo
 * **Mr Christopher Painter**, President, Global Forum on Cyber Expertise Foundation
 * **Dr James Pamment**, Director, Psychological Defence Research Institute, Lund University
 * **Mr Giacomo Persi Paoli**, Head of Programme, Security and Technology, United Nations Institute for Disarmament Research
-* **Dr Thitinan Pongsudhirak**, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
+* **Prof Thitinan Pongsudhirak**, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
 * **Mr Tan Ah Tuan**, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
