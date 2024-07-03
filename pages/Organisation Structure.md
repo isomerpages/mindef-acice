@@ -123,7 +123,7 @@ ACICE is also supported by prominent cyber and information experts around the wo
 
 ![ACICE Experts Panel Photo](/images/ACICE_Experts_PPT_Slide.png)
 
-* **Mr Benjamin Ang**, Dy Head CENS, NTU RSIS
+* **Mr Benjamin Ang**, Head CENS, NTU RSIS
 * **Prof. Chen Dongxiao**, President, Shanghai Institutes for International Affairs
 * **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
 * **Dr Kiran Garimella**, Assistant Professor, School of Communication and Information, Rutgers University
