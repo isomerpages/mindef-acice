@@ -121,7 +121,7 @@ The progress of ACICE will be reported annually to the ADMM through the ADSOM an
 
 ACICE is also supported by prominent cyber and information experts around the world. They are:
 
-![](/images/ACICE_experts_ppt_slide_3.png)
+![](/images/ACICE_Experts_ppt_slide_4.png)
 
 * **[Mr Melvyn Ong](/files/Mr_Melvyn_Ong.pdf)**  , Permanent Secretary (Defence Development), Ministry of Defence; Permanent Secretary (Development), Ministry of National Development, Singapore
 * **[Mr Benjamin Ang ](/files/Mr_Benjamin_Ang.pdf)**, Head, Centre of Excellence for National Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU)
