@@ -125,12 +125,12 @@ ACICE is also supported by prominent cyber and information experts around the wo
 
 * **[Mr Melvyn Ong](/files/Mr_Melvyn_Ong.pdf)**  , Permanent Secretary (Defence Development), Ministry of Defence; Permanent Secretary (Development), Ministry of National Development, Singapore
 * **[Mr Benjamin Ang ](/files/Mr_Benjamin_Ang.pdf)**, Head, Centre of Excellence for National Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU)
-* **Prof. Chen Dongxiao**, President, Shanghai Institutes for International Affairs
-* **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
-* **Dr Kiran Garimella**, Assistant Professor, School of Communication and Information, Rutgers University
-* **Prof. Eun-Ju Lee**, Director, Center for Trustworthy AI, Seoul National University
-* **Mr Christopher Painter**, President, Global Forum on Cyber Expertise Foundation
-* **Dr James Pamment**, Director, Psychological Defence Research Institute, Lund University
-* **Mr Giacomo Persi Paoli**, Head of Programme, Security and Technology, United Nations Institute for Disarmament Research
+* **[Prof Chen Dongxiao](/files/Prof_Chen_Dongxiao.pdf)**, President, Shanghai Institutes for International Affairs
+* **[Mr Nicholas Fang](/files/Mr_Nicholas_Fang.pdf)**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
+* **[Dr Kiran Garimella](/files/Dr_Kiran_Garimella.pdf)**, Assistant Professor, School of Communication and Information, Rutgers University
+* **[Prof Lee Eun-Ju](/files/Prof_Lee_Eun_Ju.pdf)**, Director, Center for Trustworthy AI, Seoul National University
+* **[Mr Christopher Painter](/files/Mr_Christopher_Painter.pdf)**, President, Global Forum on Cyber Expertise Foundation
+* **[Dr James Pamment](/files/Dr_James_Pamment.pdf)**, Director, Psychological Defence Research Institute, Lund University
+* **[Mr Giacomo Persi Paoli](/files/Mr_Giacomo_Persi_Paoli.pdf)**, Head of Programme, Security and Technology, United Nations Institute for Disarmament Research
 * **Prof Thitinan Pongsudhirak**, Senior Fellow, Institute of Security and International Studies, Chulalongkorn University
 * **Mr Tan Ah Tuan**, Head of R&amp;D at Ensign Labs; Head of Labs at Ensign Infosecurity
