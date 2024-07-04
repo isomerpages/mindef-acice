@@ -123,6 +123,7 @@ ACICE is also supported by prominent cyber and information experts around the wo
 
 ![](/images/ACICE_experts_ppt_slide_3.png)
 
+* **[Mr Melvyn Ong](/files/PS_DD__Write_up.pdf)**  , Permanent Secretary (Defence Development), Ministry of Defence; Permanent Secretary (Development), Ministry of National Development, Singapore
 * **Mr Benjamin Ang**, Head, Centre of Excellence for National Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU)
 * **Prof. Chen Dongxiao**, President, Shanghai Institutes for International Affairs
 * **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
