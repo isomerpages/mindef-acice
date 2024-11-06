@@ -22,7 +22,7 @@ Mr Wong Chiong Hien <br>
 <br>**Assistant Director (Research)** <br>
 Ms Kang Xiaoting, Janelle <br>
 <br>
-**Analyst (Information)**<br>
+**Analyst (Cybersecurity)**<br>
 Mr Tan Wei Ren<br>Mr Joel Chang Ri Jian
 <br>
 <br>
