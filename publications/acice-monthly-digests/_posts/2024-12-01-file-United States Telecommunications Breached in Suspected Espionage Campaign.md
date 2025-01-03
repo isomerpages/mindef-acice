@@ -1,6 +1,5 @@
 ---
-title: Example TitleUnited States Telecommunications Breached in Suspected
-  Espionage Campaign
+title: United States Telecommunications Breached in Suspected Espionage Campaign
 date: 2024-12-01
 layout: file
 description: ""
