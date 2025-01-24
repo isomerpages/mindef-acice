@@ -10,6 +10,7 @@ A list of our past and upcoming events can be found below:
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
+| 25 Feb - 27 Feb 2025 | Cyber Incident Response and Threat Analysis Course | Temasek Polytechnic |
 |       |           |       |
 
 #### Past <br>
