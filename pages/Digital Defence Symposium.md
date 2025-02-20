@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2<sup>nd</sup> Digital Defence Symposium: <a href="https://www.acice-asean.org/2nd-digital-defence-symposium/" rel="noopener nofollow" target="_blank">Jul 2024</a>
+<p>2<sup>nd</sup> Digital Defence Symposium: <a href="/2nd-digital-defence-symposium/" rel="noopener nofollow" target="_blank">Jul 2024</a>
 </p>
 </li>
 </ul>
