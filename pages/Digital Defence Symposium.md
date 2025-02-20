@@ -4,7 +4,7 @@ permalink: /digitaldefencesymposium/
 description: ""
 variant: tiptap
 ---
-<p>Please find press coverage of our Digital Defence Symposiums here.</p>
+<p>Please find coverage of our Digital Defence Symposiums here.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1<sup>st</sup> Digital Defence Symposium: <a href="/1stsymposium/" rel="noopener noreferrer nofollow" target="_blank">Jul 2023</a>
