@@ -19,6 +19,7 @@ cyber and information threats are not limited to national borders. He highlighte
 “It is more important than before for ASEAN countries to adopt a coordinated
 approach in dealing with the challenges of modern warfare and digitalisation,
 as we work together towards a safer and more secure region.”</p>
+<p></p>
 <p>In his keynote address “Digital Defence - A Marathon in Changing Geo-Political
 Landscapes”, Vice Admiral Dr Thomas Daum, Chief of Cyber and Information
 Domain Service, German Armed Forces emphasised the importance of sharing
@@ -44,7 +45,5 @@ date, ACICE has published more than 100 reports to raise awareness of and
 knowledge on potential threats, trends and developments in the cybersecurity
 and information domains. Most recently, ACICE organised a Cyber Incident
 Response and Threat Analysis course for ASEAN military cyber practitioners
-to gain a deeper understanding of cybersecurity and exchange perspectives</p>
-<p>{</p>
-<p>text-align: justify; }</p>
-<p>} on cyber challenges and threats across Southeast Asia.</p>
+to gain a deeper understanding of cybersecurity and exchange perspectives
+on cyber challenges and threats across Southeast Asia.</p>
