@@ -41,18 +41,18 @@ the DDS and sideline meetings.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DDS24_Photo_3.jpg">
 </div>
 <p>Several events were organised on the sidelines of the symposium, including
-the 3rd ACICE Experts Panel meeting. Chaired by Permanent Secretary for
-Defence Development Mr Melvyn Ong, the Experts Panel comprises renowned
+the 3<sup>rd</sup> ACICE Experts Panel meeting. Chaired by Permanent Secretary
+for Defence Development Mr Melvyn Ong, the Experts Panel comprises renowned
 academics and industry experts who advise ACICE on emerging global trends
-and developments in the cybersecurity and information domains. The 2nd
-ASEAN Roundtable on Navigating the Digital Space and the 3rd ACICE Advisory
-Board meeting took place on 24 and 25 July 2024 respectively.</p>
-<p>ACICE was established by the 15th ADMM in June 2021. ACICE aims to connect
-ASEAN countries and other international partners to enhance multilateral
-cooperation in the defence sectoral against cyberattacks, disinformation
-and misinformation through information sharing and capacity building. To
-date, ACICE has published more than 100 reports to raise awareness of and
-knowledge on potential threats, trends and developments in the cybersecurity
+and developments in the cybersecurity and information domains. The 2<sup>nd</sup> ASEAN
+Roundtable on Navigating the Digital Space and the 3<sup>rd</sup> ACICE
+Advisory Board meeting took place on 24 and 25 July 2024 respectively.</p>
+<p>ACICE was established by the 15<sup>th</sup> ADMM in June 2021. ACICE aims
+to connect ASEAN countries and other international partners to enhance
+multilateral cooperation in the defence sectoral against cyberattacks,
+disinformation and misinformation through information sharing and capacity
+building. To date, ACICE has published more than 100 reports to raise awareness
+of and knowledge on potential threats, trends and developments in the cybersecurity
 and information domains. Most recently, ACICE organised a Cyber Incident
 Response and Threat Analysis course for ASEAN military cyber practitioners
 to gain a deeper understanding of cybersecurity and exchange perspectives
