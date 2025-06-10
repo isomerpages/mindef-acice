@@ -20,7 +20,7 @@ Mr Tan Wei Ren<br>Mr Joel Chang Ri Jian
 <br>
 <br>
 **Analyst (Information)**<br>
-Ms Tan Qian Ying
+Mr Wong Ding Jie
 <br>
 <br>
 **Senior Executive (Logistics and Operations)**
