@@ -10,7 +10,7 @@ A list of our past and upcoming events can be found below:
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
-| 30 Jun - 4 Jul 2025 | Information Course - Countering Disinformation in the Defence Sectoral | Changi Naval Base |
+| 30 Jun - 4 Jul 2025 | Information Course on Countering Disinformation in the Defence Sectoral | Changi Naval Base |
 | 21 Jul 2025 | 3<sup>rd</sup> ASEAN Roundtable  | Pan Pacific Singapore |
 | 22-23 Jul 2025 | 3<sup>rd</sup> Digital Defence Symposium | Pan Pacific Singapore |
 | 23 Jul 2025 | 5<sup>th</sup> Experts Panel Meeting | Pan Pacific Singapore |
