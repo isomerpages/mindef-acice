@@ -1,6 +1,5 @@
 ---
-title: "From Privacy to Power: Why Defence Must Confront the Weaponisation of
-  DataExample Title"
+title: "From Privacy to Power: Why Defence Must Confront the Weaponisation of Data"
 date: 2025-10-01
 layout: file
 description: ""
