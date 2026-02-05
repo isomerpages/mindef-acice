@@ -125,7 +125,7 @@ ACICE is also supported by prominent cyber and information experts around the wo
 
 * **Mr Benjamin Ang**, Head, Centre of Excellence for National Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU)
 
-* **Prof Chen Dongxiao**, President, Shanghai Institutes for International Affairs
+* **Prof Chen Dongxiao**, President, Shanghai Institutes for International Studies
 
 * **Mr Nicholas Fang**, Director of Security and Global Affairs, Singapore Institute of International Affairs; Founder/Managing Director, Black Dot
 
