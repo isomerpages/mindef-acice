@@ -174,7 +174,7 @@ the world. They are:</p>
 <ul>
 <li>
 <p><strong>Mr Melvyn Ong</strong> , Permanent Secretary (Defence Development),
-Ministry of Defence; Permanent Secretary (Sustainability and the Environment),
+Ministry of Defence; Permanent Secretary,
 Ministry of Sustainability and the Environment, Singapore</p>
 </li>
 <li>
