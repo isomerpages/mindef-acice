@@ -2,7 +2,7 @@
 title: Organisation Structure
 permalink: /orgstructure/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>The ACICE is led by a Singaporean Executive Director, who oversees the
 day-to-day operations of the ACICE.</p>
@@ -174,7 +174,7 @@ the world. They are:</p>
 <ul>
 <li>
 <p><strong>Mr Melvyn Ong</strong> , Permanent Secretary (Defence Development),
-Ministry of Defence; Permanent Secretary (Sustainability and the Environment),
+Ministry of Defence; Permanent Secretary,
 Ministry of Sustainability and the Environment, Singapore</p>
 </li>
 <li>
