@@ -78,7 +78,8 @@ of Defence</p>
 <p>COL Feuangxay Milakong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Director General of Foreign Relations Department</p>
+<p>Deputy Director General, Foreign Relations Department, Ministry of National
+Defence</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +90,8 @@ of Defence</p>
 <p>RADM Fadhil Bin Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director-General, Defence Cyber and Electromagnetic Division</p>
+<p>Director-General, Defence Cyber and Electromagnetic Division, Malaysian
+Armed Forces</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +147,6 @@ National Defence (DND)</p>
 <td rowspan="1" colspan="1">
 <p>Director-General, Cyber Center, Defense Information&nbsp;and Space Technology
 Department, Ministry of Defence</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -156,7 +157,7 @@ Department, Ministry of Defence</p>
 <p>MG Nguyen Tung Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Commander in Chief Cyber Security Command, Ministry of Defence</p>
+<p>Deputy Commander, Cyber Security Command, Ministry of Defence</p>
 </td>
 </tr>
 </tbody>
