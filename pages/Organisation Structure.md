@@ -40,7 +40,7 @@ Board are:</p>
 <p>Brunei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT KOL(U) Zainolhizad bin Hj Mohd Zain</p>
+<p>COL (U) Zainolhizad bin Hj Mohd Zain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head, Cyber Defence Unit, Royal Brunei Armed Forces</p>
@@ -99,12 +99,11 @@ Armed Forces</p>
 <p>Myanmar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BG Ko Ko Oo</p>
+<p>COL Aung Ko</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-<p></p>
+<p>Deputy Head of Department, Ministry of Defence</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +117,7 @@ Armed Forces</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary, Office for DND Information Security, Department of
-National Defence (DND)</p>
+National Defence</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +144,7 @@ National Defence (DND)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director-General, Cyber Center, Defense Information&nbsp;and Space Technology
+<p>Director-General, Cyber Centre, Defence Information&nbsp;and Space Technology
 Department, Ministry of Defence</p>
 </td>
 </tr>
