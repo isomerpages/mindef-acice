@@ -43,7 +43,8 @@ Board are:</p>
 <p>COL (U) Zainolhizad bin Hj Mohd Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head, Cyber Defence Unit, Royal Brunei Armed Forces</p>
+<p>Head, Cyber Defence Unit, Joint Force Headquarters, Royal Brunei Armed
+Forces</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +182,7 @@ the Environment, Singapore</p>
 <li>
 <p><strong>Mr Benjamin Ang</strong>, Head, Centre of Excellence for National
 Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang
-Technological University (NTU)</p>
+Technological University</p>
 </li>
 <li>
 <p><strong>Prof Chen Dongxiao</strong>, President, Shanghai Institutes for
