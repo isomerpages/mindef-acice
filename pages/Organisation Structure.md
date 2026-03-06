@@ -2,7 +2,7 @@
 title: Organisation Structure
 permalink: /orgstructure/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>The ACICE is led by a Singaporean Executive Director, who oversees the
 day-to-day operations of the ACICE.</p>
@@ -66,7 +66,8 @@ of National Defence</p>
 <p>BG Laode Muhamad Aries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director General of Defence Strategy, Ministry of Defence</p>
+<p>Head of Cyber Defence Unit, Directorate General of Defence Strategy, Ministry
+of Defence</p>
 </td>
 </tr>
 <tr>
@@ -174,8 +175,8 @@ the world. They are:</p>
 <ul>
 <li>
 <p><strong>Mr Melvyn Ong</strong> , Permanent Secretary (Defence Development),
-Ministry of Defence; Permanent Secretary,
-Ministry of Sustainability and the Environment, Singapore</p>
+Ministry of Defence; Permanent Secretary, Ministry of Sustainability and
+the Environment, Singapore</p>
 </li>
 <li>
 <p><strong>Mr Benjamin Ang</strong>, Head, Centre of Excellence for National
