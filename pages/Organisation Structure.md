@@ -2,7 +2,7 @@
 title: Organisation Structure
 permalink: /orgstructure/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>The ACICE is led by a Singaporean Executive Director, who oversees the
 day-to-day operations of the ACICE.</p>
@@ -40,10 +40,11 @@ Board are:</p>
 <p>Brunei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT KOL(U) Zainolhizad bin Hj Mohd Zain</p>
+<p>COL (U) Zainolhizad bin Hj Mohd Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head, Cyber Defence Unit, Royal Brunei Armed Forces</p>
+<p>Head, Cyber Defence Unit, Joint Force Headquarters, Royal Brunei Armed
+Forces</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +67,8 @@ of National Defence</p>
 <p>BG Laode Muhamad Aries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director General of Defence Strategy, Ministry of Defence</p>
+<p>Head of Cyber Defence Unit, Directorate General of Defence Strategy, Ministry
+of Defence</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +79,8 @@ of National Defence</p>
 <p>COL Feuangxay Milakong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Director General of Foreign Relations Department</p>
+<p>Deputy Director General, Foreign Relations Department, Ministry of National
+Defence</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +91,8 @@ of National Defence</p>
 <p>RADM Fadhil Bin Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director-General, Defence Cyber and Electromagnetic Division</p>
+<p>Director-General, Defence Cyber and Electromagnetic Division, Malaysian
+Armed Forces</p>
 </td>
 </tr>
 <tr>
@@ -96,12 +100,11 @@ of National Defence</p>
 <p>Myanmar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BG Ko Ko Oo</p>
+<p>COL Aung Ko</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-<p></p>
+<p>Deputy Head of Department, Ministry of Defence</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +118,7 @@ of National Defence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary, Office for DND Information Security, Department of
-National Defence (DND)</p>
+National Defence</p>
 </td>
 </tr>
 <tr>
@@ -142,9 +145,8 @@ National Defence (DND)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director-General, Cyber Center, Defense Information&nbsp;and Space Technology
+<p>Director-General, Cyber Centre, Defence Information&nbsp;and Space Technology
 Department, Ministry of Defence</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -155,7 +157,7 @@ Department, Ministry of Defence</p>
 <p>MG Nguyen Tung Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Commander in Chief Cyber Security Command, Ministry of Defence</p>
+<p>Deputy Commander, Cyber Security Command, Ministry of Defence</p>
 </td>
 </tr>
 </tbody>
@@ -174,13 +176,13 @@ the world. They are:</p>
 <ul>
 <li>
 <p><strong>Mr Melvyn Ong</strong> , Permanent Secretary (Defence Development),
-Ministry of Defence; Permanent Secretary,
-Ministry of Sustainability and the Environment, Singapore</p>
+Ministry of Defence; Permanent Secretary, Ministry of Sustainability and
+the Environment, Singapore</p>
 </li>
 <li>
 <p><strong>Mr Benjamin Ang</strong>, Head, Centre of Excellence for National
 Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang
-Technological University (NTU)</p>
+Technological University</p>
 </li>
 <li>
 <p><strong>Prof Chen Dongxiao</strong>, President, Shanghai Institutes for
