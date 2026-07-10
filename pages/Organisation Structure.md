@@ -115,7 +115,7 @@ Armed Forces</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary, Office for DND Information Security, Department of
-National Defence</p>
+National Defense</p>
 </td>
 </tr>
 <tr>
