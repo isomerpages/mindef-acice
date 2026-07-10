@@ -101,7 +101,6 @@ Armed Forces</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>COL Aung Ko</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Head of Department, Ministry of Defence</p>
@@ -113,8 +112,6 @@ Armed Forces</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Odessa Rossilyz Magisa</p>
-<p></p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary, Office for DND Information Security, Department of
@@ -126,7 +123,7 @@ National Defence</p>
 <p>Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BG Ng Pak Shun</p>
+<p>BG Amos Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Chief Policy and Strategy, Ministry of Defence</p>
@@ -137,15 +134,10 @@ National Defence</p>
 <p>Thailand</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MG Chanog Jornjumrus</p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
+<p>AVM Wattapol Makedee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director-General, Cyber Centre, Defence Information&nbsp;and Space Technology
+<p>Director, Cyber Centre, Defence Information&nbsp;and Space Technology
 Department, Ministry of Defence</p>
 </td>
 </tr>
