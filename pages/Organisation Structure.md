@@ -143,6 +143,18 @@ Department, Ministry of Defence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Timor Leste</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Borja Loedaci Cauthe Patrocinio Antonino</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief of the Cabinet of Technical Support for ICT / C5ISR / Cybersecurity,
+Ministry of Defense</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
