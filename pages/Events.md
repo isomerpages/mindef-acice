@@ -10,7 +10,7 @@ A list of our past and upcoming events can be found below:
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
-|       |           |       |
+|    20-22 Jul 2026   |    4<sup>th</sup> Digital Defence Symposium       |    Raffles City Convention Centre   |
 
 #### Past <br>
 
