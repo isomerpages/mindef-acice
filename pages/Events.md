@@ -12,7 +12,7 @@ A list of our past and upcoming events can be found below:
 | -------- | -------- | -------- |
 | 23 Jul 2026 | 4<sup>rd</sup> ASEAN Roundtable  | Raffles City Convention Centre |
 | 23 Jul 2026 | 5<sup>th</sup> Advisory Board Meeting |  Raffles City Convention Centre |
-| 22 Jul 2026 | 6<sup>th</sup> Experts Panel Meeting | Raffles City Convention Centre |
+| 22 Jul 2026 | 7<sup>th</sup> Experts Panel Meeting | Raffles City Convention Centre |
 |    20-22 Jul 2026   |    4<sup>th</sup> Digital Defence Symposium       |    Raffles City Convention Centre   |
 
 #### Past <br>
