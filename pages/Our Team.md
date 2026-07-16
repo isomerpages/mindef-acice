@@ -10,11 +10,12 @@ variant: markdown
 Ms Yeo Seow Peng
 <br> <br>
 **Deputy Director**<br>
-Mr David Ooi Tian Rong <br>
+Mr David Ooi  <br>
 <br>
 **ACICE Team** <br>
-Ms Janie Leong Wai Fang<br>
+Ms Janie Leong <br>
+Mr Glen Chong<br>
 Ms Lee Yin<br>
-Mr Joel Chang Ri Jian<br>
+Mr Joel Chang <br>
 Mr Wong Ding Jie<br>
 Mr Peter Koh
