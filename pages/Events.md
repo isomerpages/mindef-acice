@@ -10,6 +10,7 @@ A list of our past and upcoming events can be found below:
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
+| 18-20 Aug 2026 | ACICE-UNIDIR 2<sup>nd</sup> Cyber Norms Workshop | Changi Naval Base |
 | 23 Jul 2026 | 4<sup>rd</sup> ASEAN Roundtable  | Raffles City Convention Centre |
 | 23 Jul 2026 | 5<sup>th</sup> Advisory Board Meeting |  Raffles City Convention Centre |
 | 22 Jul 2026 | 7<sup>th</sup> Experts Panel Meeting | Raffles City Convention Centre |
@@ -19,6 +20,9 @@ A list of our past and upcoming events can be found below:
 
 | Date | Meetings/Events | Venue |
 | -------- | -------- | -------- |
+| 12-15 May 2026 | ACICE-US Cyber Capacity Building Course (AUC2B) | Changi Naval Base |
+| 8-10 Apr 2026 | ACICE-UNIDIR Cyber Norms Workshop | Changi Naval Base |
+| 26 Jan 2026 | 6<sup>th</sup> Experts Panel Meeting | Virtual |
 | 24 Jul 2025 | 4<sup>th</sup> Advisory Board Meeting | Pan Pacific Singapore |
 | 23 Jul 2025 | 5<sup>th</sup> Experts Panel Meeting | Pan Pacific Singapore |
 | 22-23 Jul 2025 | 3<sup>rd</sup> Digital Defence Symposium | Pan Pacific Singapore |
