@@ -4,7 +4,7 @@ permalink: /ourteam/
 description: ""
 variant: markdown
 ---
-!![](/images/260723DigitalDefenseSymposium0660.jpg)
+![](/images/260723DigitalDefenseSymposium0660.jpg)
 
 **Executive Director**<br>
 Ms Yeo Seow Peng
