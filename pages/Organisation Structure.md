@@ -184,33 +184,8 @@ Ministry of Defence; Permanent Secretary, Ministry of Sustainability and
 the Environment, Singapore</p>
 </li>
 <li>
-<p><strong>Mr Nicholas Fang</strong>, Director of Security and Global Affairs,
-Singapore Institute of International Affairs; Founder/Managing Director,
-Black Dot</p>
-</li>
-<li>
 <p><strong>Mr Christopher Painter</strong>, President, Global Forum on Cyber
 Expertise Foundation</p>
-</li>
-<li>
-<p><strong>Dr James Pamment</strong>, Director, Psychological Defence Research
-Institute, Lund University</p>
-</li>
-<li>
-<p><strong>Mr Giacomo Persi Paoli</strong>, Head of Programme, Security and
-Technology, United Nations Institute for Disarmament Research</p>
-</li>
-<li>
-<p><strong>Dr Thitinan Pongsudhirak</strong>, Senior Fellow, Institute of
-Security and International Studies, Chulalongkorn University</p>
-</li>
-<li>
-<p><strong>Ms Farlina Said</strong>, Director, Cyber and Technology Policy
-Institute of Strategic &amp; International Studies (ISIS) Malaysia</p>
-</li>
-<li>
-<p><strong>Ms Mihoko Matsubara</strong>, Chief Cybersecurity Strategist NTT
-Corporation</p>
 </li>
 <li>
 <p><strong>Ms Danielle Yeow</strong>, Adjunct Senior Research Fellow, Lead
@@ -218,11 +193,32 @@ Cyber Law and Governance, Centre for International Law, National University
 of Singapore</p>
 </li>
 <li>
+<p><strong>Ms Farlina Said</strong>, Director, Cyber and Technology Policy,
+Institute of Strategic &amp; International Studies (ISIS) Malaysia</p>
+</li>
+<li>
+<p><strong>Dr James Pamment</strong>, Director, Psychological Defence Research
+Institute, Lund University</p>
+</li>
+<li>
 <p><strong>Ms Lorna Ward</strong>, Senior Adviser, Venn International Ltd</p>
+</li>
+<li>
+<p><strong>Ms Mihoko Matsubara</strong>, Chief Cybersecurity Strategist,
+NTT Corporation</p>
+</li>
+<li>
+<p><strong>Mr Nicholas Fang</strong>, Director of Security and Global Affairs,
+Singapore Institute of International Affairs; Founder/Managing Director,
+Black Dot</p>
 </li>
 <li>
 <p><strong>Dr Qi Haotian</strong>, Deputy Director, Center for International
 Security and Peace Studies, Peking University</p>
+</li>
+<li>
+<p><strong>Dr Thitinan Pongsudhirak</strong>, Senior Fellow, Institute of
+Security and International Studies, Chulalongkorn University</p>
 </li>
 </ul>
 <p></p>
