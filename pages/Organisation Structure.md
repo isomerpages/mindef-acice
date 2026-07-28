@@ -184,26 +184,9 @@ Ministry of Defence; Permanent Secretary, Ministry of Sustainability and
 the Environment, Singapore</p>
 </li>
 <li>
-<p><strong>Mr Benjamin Ang</strong>, Head, Centre of Excellence for National
-Security (CENS), S Rajaratnam School of International Studies (RSIS), Nanyang
-Technological University</p>
-</li>
-<li>
-<p><strong>Prof Chen Dongxiao</strong>, President, Shanghai Institutes for
-International Studies</p>
-</li>
-<li>
 <p><strong>Mr Nicholas Fang</strong>, Director of Security and Global Affairs,
 Singapore Institute of International Affairs; Founder/Managing Director,
 Black Dot</p>
-</li>
-<li>
-<p><strong>Dr Kiran Garimella</strong>, Assistant Professor, School of Communication
-and Information, Rutgers University</p>
-</li>
-<li>
-<p><strong>Prof Lee Eun-Ju</strong>, Director, Center for Trustworthy AI,
-Seoul National University</p>
 </li>
 <li>
 <p><strong>Mr Christopher Painter</strong>, President, Global Forum on Cyber
@@ -222,8 +205,24 @@ Technology, United Nations Institute for Disarmament Research</p>
 Security and International Studies, Chulalongkorn University</p>
 </li>
 <li>
-<p><strong>Mr Tan Ah Tuan</strong>, Head of R&amp;D at Ensign Labs; Head
-of Labs at Ensign Infosecurity</p>
+<p><strong>Ms Farlina Said</strong>, Director, Cyber and Technology Policy
+Institute of Strategic &amp; International Studies (ISIS) Malaysia</p>
+</li>
+<li>
+<p><strong>Ms Mihoko Matsubara</strong>, Chief Cybersecurity Strategist NTT
+Corporation</p>
+</li>
+<li>
+<p><strong>Ms Danielle Yeow</strong>, Adjunct Senior Research Fellow, Lead
+Cyber Law and Governance, Centre for International Law, National University
+of Singapore</p>
+</li>
+<li>
+<p><strong>Ms Lorna Ward</strong>, Senior Adviser, Venn International Ltd</p>
+</li>
+<li>
+<p><strong>Dr Qi Haotian</strong>, Deputy Director, Center for International
+Security and Peace Studies, Peking University</p>
 </li>
 </ul>
 <p></p>
