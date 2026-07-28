@@ -179,13 +179,13 @@ ADSOM and ADSOM WG.</p>
 the world. They are:</p>
 <ul>
 <li>
-<p><strong>Mr Melvyn Ong</strong> , Permanent Secretary (Defence Development),
+<p><strong>Mr Melvyn Ong</strong>, Permanent Secretary (Defence Development),
 Ministry of Defence; Permanent Secretary, Ministry of Sustainability and
 the Environment, Singapore</p>
 </li>
 <li>
-<p><strong>Mr Christopher Painter</strong>, President, Global Forum on Cyber
-Expertise Foundation</p>
+<p><strong>Mr Christopher Painter</strong>, Founding Partner, The Cyber Policy
+Group</p>
 </li>
 <li>
 <p><strong>Ms Danielle Yeow</strong>, Adjunct Senior Research Fellow, Lead
