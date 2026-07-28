@@ -4,7 +4,7 @@ permalink: /ourteam/
 description: ""
 variant: markdown
 ---
-![](/images/acice%20team.jpg)
+![](/images/260723DigitalDefenseSymposium0660.jpg)
 
 **Executive Director**<br>
 Ms Yeo Seow Peng
